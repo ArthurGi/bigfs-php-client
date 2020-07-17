@@ -204,4 +204,4 @@ Class | Method | HTTP request | Description
 
 ## Author
 
-apiteam@example.com
+support@bigfs.cloud
